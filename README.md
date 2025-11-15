@@ -10,8 +10,8 @@ A simple offline-first Android app that fetches users from JSONPlaceholder, cach
 - Search runs locally in Room with a `@Query` that filters by name or email.
 
 ## Screenshots
-![Alt text](/app/SCREENSHOT411A.jpg?raw=true "Screenshot 1")
-![Alt text](/app/SCREENSHOT2411A.jpg?raw=true "Screenshot 2")
+![Alt text](/app/SCREENSHOT411A.png?raw=true "Screenshot 1")
+![Alt text](/app/SCREENSHOT2411A.png?raw=true "Screenshot 2")
 1. Main list view (shows id, name, email, phone)
 2. Search in action
 3. Offline behavior (cached results shown)
